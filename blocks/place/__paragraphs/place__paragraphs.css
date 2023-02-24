@@ -1,0 +1,23 @@
+.place__paragraphs{
+    grid-area: paragraphs;
+    margin: 0;
+    font-size: 18px;
+    line-height: 29.34px;
+    display: flex;
+    flex-direction: column;
+    gap: 27px;
+  }
+  
+  @media screen and (max-width: 1023px) {
+    .place__paragraphs{
+      font-size: 16px;
+      line-height: 26.08px;
+    }
+  }
+
+  @media screen and (max-width: 767px) {
+    .place__paragraphs{
+      padding: 0 16px;
+      box-sizing: border-box;
+    }
+  }
