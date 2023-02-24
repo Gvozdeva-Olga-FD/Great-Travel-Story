@@ -4,4 +4,4 @@
 
 Адаптивность реализована путем комбинации grid-сеток и @media - запросов
 
-Сайт на github-pages - 
+Сайт на github-pages - https://gvozdeva-olga-fd.github.io/Great-Travel-Story/
